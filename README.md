@@ -1,3 +1,2 @@
-# Emotional-Infrastructure-of-Filipino-Migrant-Workers-in-Japan
-DATA 
+# Emotional-Infrastructure-of-Filipino-Migrant-Workers-in-Japan 
 This repository contains the data files including interview guide question, consent form (blank template), and supplementary data used for the article "Affective Platforms, Precarious Lives: Social Media and the Emotional Infrastructure of Filipino Migrant Workers in Japan" submitted to "Humanities and Social Science Communications" 
